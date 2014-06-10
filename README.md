@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Swift RSS Sample
 ================
@@ -25,3 +26,9 @@ pod install
 ### LICENSE
 
 This software is released under the MIT License, see LICENSE.
+=======
+desaparecidosBR
+===============
+
+desaparecidosBR
+>>>>>>> 232dea24ff4bb60b673539fbb795f5fa10b7b308
