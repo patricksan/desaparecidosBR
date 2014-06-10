@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TblViewPessoasCellTableViewCell.swift">
+   </FileRef>
+   <FileRef
       location = "group:DesaparecidosBR.xcodeproj">
    </FileRef>
    <FileRef
