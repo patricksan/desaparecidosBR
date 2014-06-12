@@ -14,6 +14,7 @@
 		AAC02B2C193DEEFE003997F3 /* RSSReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC02B2B193DEEFE003997F3 /* RSSReaderTests.swift */; };
 		AAC02B3A193DF344003997F3 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = AAC02B39193DF344003997F3 /* Podfile */; };
 		BFBD447B1C0843409AC9A3C4 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AFE16BB7AB9C49C5B4EFAE90 /* libPods.a */; };
+		DE8DA90B1949DBF6000D597A /* DetalhesPessoaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8DA90A1949DBF6000D597A /* DetalhesPessoaViewController.swift */; };
 		DEB530431946308100F86DA0 /* Pessoa.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB530421946308100F86DA0 /* Pessoa.swift */; };
 		DEC1E4FF194779EC00F5A5A7 /* TableViewPessoasCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC1E4FE194779EC00F5A5A7 /* TableViewPessoasCell.swift */; };
 		DEC9290F19460F9900389A8E /* MyFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC9290E19460F9900389A8E /* MyFunctions.swift */; };
@@ -43,6 +44,7 @@
 		AAC02B35193DF2B8003997F3 /* DesaparecidosBR-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DesaparecidosBR-Bridging-Header.h"; sourceTree = "<group>"; };
 		AAC02B39193DF344003997F3 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AFE16BB7AB9C49C5B4EFAE90 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE8DA90A1949DBF6000D597A /* DetalhesPessoaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalhesPessoaViewController.swift; sourceTree = "<group>"; };
 		DEB530421946308100F86DA0 /* Pessoa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pessoa.swift; sourceTree = "<group>"; };
 		DEC1E4FE194779EC00F5A5A7 /* TableViewPessoasCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewPessoasCell.swift; sourceTree = "<group>"; };
 		DEC9290E19460F9900389A8E /* MyFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFunctions.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				AAC02B1A193DEEFE003997F3 /* ViewController.swift */,
 				DEFCD73619474FDA00D186E1 /* Main.storyboard */,
 				DEC9290E19460F9900389A8E /* MyFunctions.swift */,
+				DE8DA90A1949DBF6000D597A /* DetalhesPessoaViewController.swift */,
 				DEB530421946308100F86DA0 /* Pessoa.swift */,
 				DEC1E4FE194779EC00F5A5A7 /* TableViewPessoasCell.swift */,
 				AAC02B35193DF2B8003997F3 /* DesaparecidosBR-Bridging-Header.h */,
@@ -279,6 +282,7 @@
 				AAC02B1B193DEEFE003997F3 /* ViewController.swift in Sources */,
 				DEC9290F19460F9900389A8E /* MyFunctions.swift in Sources */,
 				DEB530431946308100F86DA0 /* Pessoa.swift in Sources */,
+				DE8DA90B1949DBF6000D597A /* DetalhesPessoaViewController.swift in Sources */,
 				AAC02B19193DEEFE003997F3 /* AppDelegate.swift in Sources */,
 				DEC1E4FF194779EC00F5A5A7 /* TableViewPessoasCell.swift in Sources */,
 			);
